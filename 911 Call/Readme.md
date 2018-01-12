@@ -7,5 +7,5 @@ We will be doing some exploratory data analysis and answering questions to find 
 
 [Kaggle!](https://www.kaggle.com/mchirico/montcoalert)
 
-[logo]: http://www.usgwarchives.net/maps/pa/county/montgo/usgs/montgomp.jpg)
+[Monte](http://www.usgwarchives.net/maps/pa/county/montgo/usgs/montgomp.jpg)
 
