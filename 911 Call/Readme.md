@@ -7,5 +7,5 @@ We will be doing some exploratory data analysis and answering questions to find 
 
 [Kaggle!](https://www.kaggle.com/mchirico/montcoalert)
 
-[Monte](http://www.usgwarchives.net/maps/pa/county/montgo/usgs/montgomp.jpg)
+[Monte](http://taylorgrahamlibrary.net/downloads/graham_downloads/Maps/General%20Maps%20(Post-1800)/Bucks%20-%20Montgomery/Montgomery-County.gif)
 
