@@ -1,19 +1,19 @@
-#Australian Road Deaths Database
+# Australian Road Deaths Database  
 The Australian Road Deaths Database (ARDD) is maintained and published by BITRE. It commenced in 1989
 and is updated on a monthly basis.  
-The ARDD contains basic demographic and crash details of people who have died in an Australian road crash.
+The ARDD contains basic demographic and crash details of people who have died in an Australian road crash.  
 Every fatal road traffic crash in Australia is in scope, and information is included for all people who were killed.
-It is published in two forms
- Fatalities: each record is a killed person
- Crashes: each record is a fatal crash
-The link between these is made by the CrashID field. A full list of fields follows:
-Note: Missing values for numeric fields are coded with ‘-9’;
-Field Description Format Values
-Crash ID National crash-identifying number Integer 13 - digit, unique to each fatal crash
-State Australian jurisdiction Text Abbreviation for each state/territory
-Date Date of crash Date dd-mmm-yyyy
-Month Month of crash Text
-Year Year of crash Integer
+It is published in two forms  
+ Fatalities: each record is a killed person  
+ Crashes: each record is a fatal crash  
+The link between these is made by the CrashID field. A full list of fields follows:  
+Note: Missing values for numeric fields are coded with ‘-9’;  
+Field Description Format Values  
+Crash ID National crash-identifying number Integer 13 - digit, unique to each fatal crash  
+State Australian jurisdiction Text Abbreviation for each state/territory  
+Date Date of crash Date dd-mmm-yyyy  
+Month Month of crash Text  
+Year Year of crash Integer 
 Dayweek Day of week of crash Text
 Time Time of crash Time hh:mm
 Crash Type Code summarising type of crash:
