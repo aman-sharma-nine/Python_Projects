@@ -4,7 +4,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 # Dataset information
 Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
-I have used sklearn [Logistic Regresssion](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) Classifier
+I have used sklearn [Logistic Regresssion](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) Classifier  
 Average precision-recall score obtained : 0.71
 
 # Relevant papers
