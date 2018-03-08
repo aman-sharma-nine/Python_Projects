@@ -17,3 +17,4 @@ plt.scatter(df[2],df[3])
 plt.xlabel('sepal length & Width', fontsize=13)
 plt.ylabel('Petal length & width', fontsize=13)
 plt.show()
+```
