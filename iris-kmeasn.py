@@ -1,4 +1,3 @@
-```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -17,4 +16,4 @@ plt.scatter(df[2],df[3])
 plt.xlabel('sepal length & Width', fontsize=13)
 plt.ylabel('Petal length & width', fontsize=13)
 plt.show()
-```
+
